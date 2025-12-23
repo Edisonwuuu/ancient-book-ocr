@@ -1,3 +1,4 @@
+gunicorn==21.2.0
 Flask>=3.0.0
 paddleocr>=2.7.0
 paddlepaddle>=3.0.0
